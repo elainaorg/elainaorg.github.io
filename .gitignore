@@ -26,6 +26,5 @@ stats.html
 .idea/**
 
 # Npm
-pnpm-lock.yaml
 package-lock.json
 yarn.lock
