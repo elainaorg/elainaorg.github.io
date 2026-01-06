@@ -1,0 +1,185 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Join Us"
+  },
+  "hero": {
+    "badge": "The Traveling Witch",
+    "title": "Elaina",
+    "subtitle": "A gray-haired witch who wanders the world, seeking beautiful scenery and interesting stories. Her journey continues — and so does ours.",
+    "cta": "Learn More",
+    "secondary": "Our Projects",
+    "quote": "\"The world is vast, and there are still many things I want to see.\"",
+    "stats": {
+      "fans": "Fans Worldwide",
+      "translations": "Translations",
+      "artworks": "Fan Artworks",
+      "events": "Community Events"
+    }
+  },
+  "aboutOrg": {
+    "badge": "About Us",
+    "title": "Who We Are",
+    "description": "elaina-org is a fan community dedicated to preserving and sharing the world of Elaina — from translations and archival to fan art and community events.",
+    "mission": {
+      "title": "Our Mission",
+      "description": "To keep the spirit of Elaina's journey alive through translation, preservation, and community building."
+    },
+    "values": {
+      "title": "What Drives Us",
+      "items": [
+        {
+          "title": "Passion",
+          "description": "Every member is a fan first. We do this because we love the story."
+        },
+        {
+          "title": "Quality",
+          "description": "We care about accuracy in translations and care in preservation."
+        },
+        {
+          "title": "Community",
+          "description": "Building a welcoming space for fans around the world."
+        },
+        {
+          "title": "Creativity",
+          "description": "Celebrating fan works, from art to writing to analysis."
+        }
+      ]
+    }
+  },
+  "services": {
+    "badge": "What We Do",
+    "title": "Our Activities",
+    "subtitle": "From translations to community events, we keep the journey going.",
+    "items": [
+      {
+        "title": "Translations",
+        "description": "Fan translations and scanlations of light novel volumes, making Elaina accessible worldwide.",
+        "icon": "book"
+      },
+      {
+        "title": "Archival",
+        "description": "Preserving official art, character profiles, and series information for future fans.",
+        "icon": "server"
+      },
+      {
+        "title": "Fan Art",
+        "description": "Showcasing and celebrating fan-created artwork, illustrations, and creative works.",
+        "icon": "code"
+      },
+      {
+        "title": "Community",
+        "description": "Hosting watch parties, discussion threads, and meetups for fans everywhere.",
+        "icon": "users"
+      }
+    ]
+  },
+  "projects": {
+    "badge": "Projects",
+    "title": "Our Projects",
+    "subtitle": "Open-source tools and resources built by the community.",
+    "items": [
+      {
+        "name": "elaina-wiki",
+        "description": "A comprehensive wiki covering characters, locations, and episodes from The Journey of Elaina.",
+        "stars": "1.2k",
+        "language": "TypeScript"
+      },
+      {
+        "name": "majo-archive",
+        "description": "Archival project preserving official illustrations, character sheets, and promotional materials.",
+        "stars": "856",
+        "language": "Python"
+      },
+      {
+        "name": "elaina-fansub",
+        "description": "Community-driven subtitle and translation toolkit for localizing Elaina content.",
+        "stars": "643",
+        "language": "TypeScript"
+      }
+    ],
+    "viewAll": "View All Projects"
+  },
+  "team": {
+    "badge": "Team",
+    "title": "The Travelers",
+    "subtitle": "People who keep the journey alive.",
+    "members": [
+      {
+        "name": "Azure",
+        "role": "Founder",
+        "bio": "Started this community out of love for Elaina's story."
+      },
+      {
+        "name": "Contributor",
+        "role": "Translator",
+        "bio": "Bringing Elaina's words to new languages."
+      },
+      {
+        "name": "Contributor",
+        "role": "Archivist",
+        "bio": "Preserving every detail of the world."
+      },
+      {
+        "name": "Contributor",
+        "role": "Artist",
+        "bio": "Celebrating the visual beauty of the series."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Join the Journey",
+    "title": "Walk With Us",
+    "subtitle": "Whether you're a longtime fan or just discovered Elaina, there's a place for you.",
+    "primary": "Join Discord",
+    "secondary": "View Projects"
+  },
+  "footer": {
+    "description": "A fan community for The Journey of Elaina.",
+    "links": {
+      "community": "Community",
+      "about": "About",
+      "projects": "Projects",
+      "discord": "Discord",
+      "github": "GitHub",
+      "resources": "Resources",
+      "wiki": "Wiki",
+      "archive": "Archive",
+      "translations": "Translations",
+      "fanart": "Fan Art"
+    },
+    "copyright": "© 2026 elaina-org. Fan project — not affiliated with the original creators."
+  },
+  "about": {
+    "badge": "About the Organization",
+    "title": "elaina-org",
+    "subtitle": "A fan community built on love for The Journey of Elaina",
+    "story": {
+      "title": "Our Story",
+      "description": "elaina-org started as a small group of fans who wanted to preserve and share the world of Elaina. What began as a translation project grew into a full community — with archival work, fan art showcases, and regular events."
+    },
+    "mission": {
+      "title": "Mission",
+      "description": "Keep the spirit of Elaina's journey alive through translation, preservation, and community."
+    },
+    "vision": {
+      "title": "Vision",
+      "description": "A global community where fans of Elaina can connect, create, and celebrate the story together."
+    }
+  },
+  "projectsPage": {
+    "badge": "All Projects",
+    "title": "Our Projects",
+    "subtitle": "Open-source tools and resources built by the elaina-org community.",
+    "empty": "More projects coming soon."
+  },
+  "notFound": {
+    "title": "404",
+    "subtitle": "Lost in the Journey",
+    "description": "Looks like you've wandered off the path. This page doesn't exist — but Elaina would say that's just part of the adventure.",
+    "home": "Return Home",
+    "back": "Go Back"
+  }
+}

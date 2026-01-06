@@ -1,0 +1,185 @@
+{
+  "nav": {
+    "home": "首页",
+    "about": "关于",
+    "projects": "项目",
+    "contact": "加入我们"
+  },
+  "hero": {
+    "badge": "旅行的魔女",
+    "title": "艾莉亚娜",
+    "subtitle": "一位灰发魔女，周游世界，寻找美丽的风景和有趣的故事。她的旅程仍在继续——我们的也是。",
+    "cta": "了解更多",
+    "secondary": "我们的项目",
+    "quote": "\"世界很大，还有很多我想看的东西。\"",
+    "stats": {
+      "fans": "全球粉丝",
+      "translations": "翻译作品",
+      "artworks": "同人创作",
+      "events": "社区活动"
+    }
+  },
+  "aboutOrg": {
+    "badge": "关于我们",
+    "title": "我们是谁",
+    "description": "elaina-org 是一个粉丝社区，致力于保存和分享艾莉亚娜的世界——从翻译、归档到同人创作和社区活动。",
+    "mission": {
+      "title": "我们的使命",
+      "description": "通过翻译、保存和社区建设，让艾莉亚娜旅程的精神延续下去。"
+    },
+    "values": {
+      "title": "我们的动力",
+      "items": [
+        {
+          "title": "热爱",
+          "description": "每个成员首先是粉丝。我们做这一切是因为热爱这个故事。"
+        },
+        {
+          "title": "品质",
+          "description": "我们注重翻译的准确性和保存的用心。"
+        },
+        {
+          "title": "社区",
+          "description": "为全世界的粉丝打造一个温馨的空间。"
+        },
+        {
+          "title": "创意",
+          "description": "庆祝粉丝创作，从绘画到写作到分析。"
+        }
+      ]
+    }
+  },
+  "services": {
+    "badge": "我们做什么",
+    "title": "我们的活动",
+    "subtitle": "从翻译到社区活动，我们让旅程继续。",
+    "items": [
+      {
+        "title": "翻译",
+        "description": "轻小说各卷的粉丝翻译和字幕制作，让艾莉亚娜走向世界。",
+        "icon": "book"
+      },
+      {
+        "title": "归档",
+        "description": "保存官方画作、角色设定和系列资料，为未来的粉丝留下记录。",
+        "icon": "server"
+      },
+      {
+        "title": "同人创作",
+        "description": "展示和庆祝粉丝创作的画作、插图和创意作品。",
+        "icon": "code"
+      },
+      {
+        "title": "社区",
+        "description": "为各地粉丝举办观影会、讨论串和线下聚会。",
+        "icon": "users"
+      }
+    ]
+  },
+  "projects": {
+    "badge": "项目",
+    "title": "我们的项目",
+    "subtitle": "社区构建的开源工具和资源。",
+    "items": [
+      {
+        "name": "elaina-wiki",
+        "description": "涵盖《魔女之旅》角色、地点和剧集的综合维基。",
+        "stars": "1.2k",
+        "language": "TypeScript"
+      },
+      {
+        "name": "majo-archive",
+        "description": "保存官方插画、角色设定和宣传素材的归档项目。",
+        "stars": "856",
+        "language": "Python"
+      },
+      {
+        "name": "elaina-fansub",
+        "description": "社区驱动的字幕和翻译工具包，用于本地化艾莉亚娜内容。",
+        "stars": "643",
+        "language": "TypeScript"
+      }
+    ],
+    "viewAll": "查看所有项目"
+  },
+  "team": {
+    "badge": "团队",
+    "title": "旅行者们",
+    "subtitle": "让旅程延续的人们。",
+    "members": [
+      {
+        "name": "Azure",
+        "role": "创始人",
+        "bio": "出于对艾莉亚娜故事的热爱，创建了这个社区。"
+      },
+      {
+        "name": "贡献者",
+        "role": "翻译",
+        "bio": "将艾莉亚娜的文字带给新的语言。"
+      },
+      {
+        "name": "贡献者",
+        "role": "资料管理",
+        "bio": "保存这个世界的每一个细节。"
+      },
+      {
+        "name": "贡献者",
+        "role": "画师",
+        "bio": "颂扬这部作品的视觉之美。"
+      }
+    ]
+  },
+  "cta": {
+    "badge": "加入旅程",
+    "title": "与我们同行",
+    "subtitle": "无论你是老粉丝还是刚发现艾莉亚娜，这里都有你的位置。",
+    "primary": "加入 Discord",
+    "secondary": "查看项目"
+  },
+  "footer": {
+    "description": "《魔女之旅》粉丝社区。",
+    "links": {
+      "community": "社区",
+      "about": "关于",
+      "projects": "项目",
+      "discord": "Discord",
+      "github": "GitHub",
+      "resources": "资源",
+      "wiki": "维基",
+      "archive": "归档",
+      "translations": "翻译",
+      "fanart": "同人图"
+    },
+    "copyright": "© 2026 elaina-org。粉丝项目——与原作者无关联。"
+  },
+  "about": {
+    "badge": "关于组织",
+    "title": "elaina-org",
+    "subtitle": "建立在对《魔女之旅》热爱之上的粉丝社区",
+    "story": {
+      "title": "我们的故事",
+      "description": "elaina-org 最初是一小群想要保存和分享艾莉亚娜世界的粉丝。从一个翻译项目开始，逐渐发展成一个完整的社区——包括归档工作、同人展示和定期活动。"
+    },
+    "mission": {
+      "title": "使命",
+      "description": "通过翻译、保存和社区建设，让艾莉亚娜旅程的精神延续下去。"
+    },
+    "vision": {
+      "title": "愿景",
+      "description": "一个全球社区，让艾莉亚娜的粉丝们可以连接、创作，共同庆祝这个故事。"
+    }
+  },
+  "projectsPage": {
+    "badge": "所有项目",
+    "title": "我们的项目",
+    "subtitle": "elaina-org 社区构建的开源工具和资源。",
+    "empty": "更多项目即将推出。"
+  },
+  "notFound": {
+    "title": "404",
+    "subtitle": "在旅途中迷路了",
+    "description": "看来你偏离了道路。这个页面不存在——但艾莉亚娜会说这只是冒险的一部分。",
+    "home": "返回首页",
+    "back": "返回上一页"
+  }
+}

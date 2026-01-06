@@ -28,3 +28,6 @@ stats.html
 # Npm
 package-lock.json
 yarn.lock
+
+# AI
+/.mimocode
